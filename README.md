@@ -1,4 +1,4 @@
-Oh oke, ini:
+
 
 ```markdown
 # CS Journey — Dafan Mahendra
