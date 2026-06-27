@@ -102,5 +102,5 @@ Jadi fungsi utama tidak bekerja sendirian. Ia bergantung pada helper untuk menen
 - Time: O(n^2)
 - Space: O(n)
 
-## Intuisi Singkat
+## Penjelasan
 Selection sort itu seperti memilih kartu paling kecil dari tumpukan, lalu memindahkannya ke tumpukan hasil. Ulangi terus sampai tumpukan awal habis.
